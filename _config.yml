@@ -1,9 +1,10 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Unofficial NameMC API Docs
+url: https://shrieked.github.io/Unofficial-NameMC-API-Docs/
 paginate: 1
 baseurl: ""
 permalink: pretty
+paginate_path: "/baseurl/page:num/"
 
 # Gems
 plugins:
